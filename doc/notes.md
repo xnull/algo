@@ -7,3 +7,4 @@
  - Implement AsyncLru
  - Systrem design: parking lot
  - Solve sudoku on whiteboard
+ - Disjoint sets - applications and impementation
