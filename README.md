@@ -5,3 +5,6 @@
  
 ### System Design
  - [top 10](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
+
+### DP, Greedy etc
+ - [yay breakdown](https://www.youtube.com/user/krispykarim/playlists)
