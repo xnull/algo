@@ -11,3 +11,5 @@
 ### DP, Greedy etc
  - [yay breakdown](https://www.youtube.com/user/krispykarim/playlists)
  - [stanford dp](https://www.youtube.com/watch?v=0y5UkZc-C8Y)
+ - [Tech Talk: Introduction to Tabulation in Dynamic Programming: Subset Sum Problem](https://www.youtube.com/watch?v=V3y6GW21lKE)
+ - [coins dp](https://www.youtube.com/watch?v=Rl8P9SJptQM)
