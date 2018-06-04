@@ -10,3 +10,4 @@
 
 ### DP, Greedy etc
  - [yay breakdown](https://www.youtube.com/user/krispykarim/playlists)
+ - [stanford dp](https://www.youtube.com/watch?v=0y5UkZc-C8Y)
