@@ -8,3 +8,9 @@
  - Systrem design: parking lot
  - Solve sudoku on whiteboard
  - Disjoint sets - applications and impementation
+ 
+ ### Implement
+  - distributed log (kafka)
+  - kafka streams
+  - paxos-raft (see cassandra)
+  
