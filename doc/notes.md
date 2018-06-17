@@ -12,5 +12,5 @@
  ### Implement
   - distributed log (kafka)
   - kafka streams
-  - paxos-raft (see cassandra)
+  - paxos-raft (see cassandra) https://raft.github.io/
   
