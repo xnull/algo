@@ -14,3 +14,5 @@
   - kafka streams
   - paxos-raft (see cassandra) https://raft.github.io/
   
+### Links
+ - [about distributed systems](https://paperpaper.ru/photos/kruzhok/?utm_source=meduza&utm_medium=partners&utm_campaign=friends)
