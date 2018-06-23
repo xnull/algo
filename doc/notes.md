@@ -18,6 +18,7 @@
   - search engine - elastic search
   - btree, b+tree - raltional dbs
   - map reduce - hadoop
+  - you are given 2 arrays, find if rhere exists a sum of two elements that equals to target. Write an implementation for a  distributed system.
   
 ### Links
  - [a book about distributed systems](https://paperpaper.ru/photos/kruzhok/?utm_source=meduza&utm_medium=partners&utm_campaign=friends)
