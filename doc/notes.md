@@ -23,6 +23,7 @@
   
  ### Investigate
   - levedb
+  - [distributed hashing / partitioning](http://www.cs.princeton.edu/courses/archive/spr11/cos461/docs/lec21-hashing.pdf)
   
   
 ### Links
