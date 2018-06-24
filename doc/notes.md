@@ -12,7 +12,7 @@
  ### Implement
   - distributed log (kafka)
   - kafka streams
-  - paxos-raft (see cassandra) https://raft.github.io/
+  - paxos, raft, gossip (see cassandra) https://raft.github.io/
   - SStable (cassandra)
   - distributed KV - aerospike, etcd
   - search engine - elastic search
@@ -20,6 +20,10 @@
   - map reduce - hadoop
   - you are given 2 arrays, find if rhere exists a sum of two elements that equals to target. Write an implementation for a  distributed system.
   - [commit log](commitlog.md)
+  
+ ### Investigate
+  - levedb
+  
   
 ### Links
  - [a book about distributed systems](https://paperpaper.ru/photos/kruzhok/?utm_source=meduza&utm_medium=partners&utm_campaign=friends)
