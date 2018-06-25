@@ -26,6 +26,7 @@
   - [distributed hashing / partitioning](http://www.cs.princeton.edu/courses/archive/spr11/cos461/docs/lec21-hashing.pdf)
   - https://goo.gl/2qWW6L
   - [distributed computing course](https://www.youtube.com/watch?v=rVfAZHAiixI&index=5&list=PLx3mQFFeHPjndmQ0iP9j6C58b90hqGa0X)
+  [Synchronous Distributed Algorithms: Symmetry-Breaking. Shortest-Paths Spanning Trees](https://www.youtube.com/watch?v=mUBmcbbJNf4)
   
   
 ### Links
