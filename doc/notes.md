@@ -28,6 +28,7 @@
   - [distributed computing course](https://www.youtube.com/watch?v=rVfAZHAiixI&index=5&list=PLx3mQFFeHPjndmQ0iP9j6C58b90hqGa0X)
   [Synchronous Distributed Algorithms: Symmetry-Breaking. Shortest-Paths Spanning Trees](https://www.youtube.com/watch?v=mUBmcbbJNf4)
   - [distributed algorithms](https://www.youtube.com/results?search_query=distributed+algorithms)
+  - [wiki](https://en.wikipedia.org/wiki/Category:Distributed_algorithms)
   
   
 ### Links
