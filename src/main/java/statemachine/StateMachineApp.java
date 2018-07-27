@@ -3,6 +3,9 @@ import java.util.Map;
 import java.lang.*;
 import java.util.Objects;
 
+/**
+ * Simple tx sequence diagram  https://goo.gl/QECT8r
+ */
 public class StateMachineApp {
     public static void main(String[] args) {
         StateMachine sm = new StateMachine();
