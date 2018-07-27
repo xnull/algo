@@ -55,6 +55,11 @@ class StateMachine {
 
         //transitions.add(transition);
         actionsGraph.put(transition, action);
+        
+        sm.reset();
+
+        System.out.println("\n Invalid transaction\n");
+        sm.update(TxEvent.COMMIT);
     }
 
     void update(TxEvent event) {
