@@ -8,6 +8,7 @@
  - Systrem design: parking lot
  - Solve sudoku on whiteboard
  - Disjoint sets - applications and impementation
+ - http://aperiodic.net/phil/scala/s-99/
  
  ### Implement
   - distributed log (kafka)
