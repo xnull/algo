@@ -18,3 +18,5 @@
  #### Salaries
   - [FUI](https://www.levels.fyi)
   - [Paysa](https://paysa.com)
+
+![Alt text](https://goo.gl/kMFBtd)
