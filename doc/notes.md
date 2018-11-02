@@ -1,3 +1,7 @@
+### Implement high priority
+ - http://thesecretlivesofdata.com/raft/
+ - CRDT https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type 
+
 ### Discuss
 
  - how map reduce works in details
