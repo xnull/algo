@@ -25,6 +25,7 @@
   - map reduce - hadoop
   - you are given 2 arrays, find if rhere exists a sum of two elements that equals to target. Write an implementation for a  distributed system.
   - [commit log](commitlog.md)
+  - [string algorithms](https://en.wikipedia.org/wiki/String-searching_algorithm)
   
  ### Investigate
   - levedb
