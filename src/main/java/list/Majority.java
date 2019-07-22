@@ -1,3 +1,8 @@
+package list;
+
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * https://leetcode.com/problems/majority-element/description/
  */

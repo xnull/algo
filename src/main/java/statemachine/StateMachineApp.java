@@ -1,3 +1,5 @@
+package statemachine;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.lang.*;
@@ -59,10 +61,10 @@ class StateMachine {
         //transitions.add(transition);
         actionsGraph.put(transition, action);
         
-        sm.reset();
+        //sm.reset();
 
         System.out.println("\n Invalid transaction\n");
-        sm.update(TxEvent.COMMIT);
+        //sm.update(TxEvent.COMMIT);
     }
 
     void update(TxEvent event) {

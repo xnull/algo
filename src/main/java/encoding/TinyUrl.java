@@ -1,9 +1,11 @@
+package encoding;
+
 import java.lang.*;
 import java.util.*;
 import java.math.*;
 import java.util.AbstractMap.SimpleEntry;
 
-public class Main {
+public class TinyUrl {
     public static void main(String[] arr) {
       //String code="abcdefghijklmnopqrstuvwxyABCDEFGHIJKLMNOPQRSTUVWXY0123456789";
       String code="abcd";

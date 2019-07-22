@@ -1,9 +1,11 @@
+package tree;
+
 import java.lang.*;
 import java.util.*;
 import java.math.*;
 import java.util.AbstractMap.SimpleEntry;
 
-public class Main {
+public class BstWithCounting {
     public static void main(String[] a) {
       Bst bst = new Bst();
       bst.insert(10);
